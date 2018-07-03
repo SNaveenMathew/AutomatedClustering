@@ -1,0 +1,4 @@
+{
+	"stage_1": ["employees_count"],
+	"stage_2": ["annual_sales_usd", "rev_per_emp"]
+}

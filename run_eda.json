@@ -1,0 +1,16 @@
+{
+    "run_cluster_analysis": true,
+    "run_ba": false,
+    "cluster_location": "data/SNTC Adopt - prototype/SNTC_Adopt_May_17.csv",
+    "filters": "clustering_results/SNTC_Adopt/filters.json",
+    "transforms": "clustering_results/SNTC_Adopt/transforms.json",
+    "stages": "clustering_results/SNTC_Adopt/stages.json",
+    "cluster_combine": "clustering_results/SNTC_Adopt/cluster_combine.json",
+    "basket_config": "datascience/basket.json",
+    "basket_location": "data/Digital Revolution - Ransomware/old/DR_12Dec17.csv",
+    "run_kmeans_model": true,
+    "run_hierarchical_model": false,
+    "run_pca_model": false,
+    "run_kpca_model": false,
+    "run_autoencoder_model": false
+}

@@ -1,0 +1,9 @@
+{
+	"primary_key": "party_id",
+	"products_col": "active_product_bought",
+	"duplicate_check": null,
+	"colpattern": ".*_offer$",
+	"c_type": "binary",
+	"min_support": 0.1,
+	"min_threshold": 0.1
+}

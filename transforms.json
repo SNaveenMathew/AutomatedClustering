@@ -1,0 +1,3 @@
+{
+	"continuous": ["employees_count", "annual_sales_usd", "rev_per_emp"]
+}
